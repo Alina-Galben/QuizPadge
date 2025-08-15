@@ -27,7 +27,7 @@ Include una **pagina di benvenuto** e una **pagina quiz** con la logica su file 
 - Consigliato: usa l’estensione Live Server di VS Code per auto-refresh.
 
 <p align="center">
-  <img src="./public/quizhome2.png" alt="Welcome" width="35%">
+  <img src="./public/quizhome2.png" alt="Welcome" width="32%">
   <img src="./public/quizhome.png" alt="Quiz – domanda 1" width="32%">
   <img src="./public/quizhome1.png" alt="Quiz – domanda 2" width="32%">
 </p>
